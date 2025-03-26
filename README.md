@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mintimer1315
-- 👀 I’m interested in writing code in c++ and python
-- 🌱 I’m currently learning C++ 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning veb-programing 
 - 💞️ I’m looking to collaborate on programing
 - 📫 How to reach me: my email:mintimersalimov1315@gmail.com
 - 😄 Pronouns: He
